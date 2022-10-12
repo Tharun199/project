@@ -7,7 +7,7 @@ This is a web based application developed for universuty related based website i
 ### This web based univeristy application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://collegeofmedicine.azurewebsites.net/2022/10/12/welcome/
+**Project Link** - https://collegeofmedicine.azurewebsites.net/college-history/
 
 ## Features and Functionalities 😃
 
