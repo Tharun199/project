@@ -8,7 +8,7 @@ This is a web based application developed for universuty related based website i
 
 
 **Project Link** - https://collegeofmedicine.azurewebsites.net/college-history/
-**Video url: ** - https://youtu.be/DZPZChxh9PI
+## Video url - https://youtu.be/DZPZChxh9PI
 
 ## Features and Functionalities 😃
 
